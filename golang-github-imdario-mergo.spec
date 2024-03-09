@@ -8,7 +8,7 @@ Version:		0.3.16
 
 %gometa
 
-Summary:	merging Go structs and maps
+Summary:	Merging Go structs and maps
 Name:		golang-github-imdario-mergo
 
 Release:	1
