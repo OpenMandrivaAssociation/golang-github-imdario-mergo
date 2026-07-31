@@ -4,7 +4,7 @@
 # https://github.com/imdario/mergo
 %global goipath		github.com/imdario/mergo
 %global forgeurl	https://github.com/imdario/mergo
-Version:		0.3.16
+Version:		1.0.2
 
 %gometa
 
@@ -53,7 +53,7 @@ building other packages which use import path with
 #-----------------------------------------------------------------------
 
 %prep
-%autosetup -p1 -n mergo-%{version}
+%autosetup -p1 -n mergo-1.0.2
 
 %build
 %gobuildroot
